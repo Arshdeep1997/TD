@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "346206626492",
+    "firebase_url": "https://myprojectt-25451-default-rtdb.firebaseio.com",
+    "project_id": "myprojectt-25451",
+    "storage_bucket": "myprojectt-25451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346206626492:android:f61e27b82693f055bae6b9",
+        "android_client_info": {
+          "package_name": "com.arshdeep.myprojectt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkRFXHsx983gSQa1Gm3cuVc3HTNhWIksY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346206626492:android:fce091731a496f2cbae6b9",
+        "android_client_info": {
+          "package_name": "com.arshdeep.td"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkRFXHsx983gSQa1Gm3cuVc3HTNhWIksY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
